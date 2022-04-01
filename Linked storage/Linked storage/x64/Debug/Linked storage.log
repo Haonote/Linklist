@@ -1,0 +1,6 @@
+﻿  Link.c
+D:\C++\Data structure\linear list\Linked storage\Linked storage\Linklist.h(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“Lnode”的左侧
+D:\C++\Data structure\linear list\Linked storage\Linked storage\Link.c(6,16): warning C4101: “e”: 未引用的局部变量
+D:\C++\Data structure\linear list\Linked storage\Linked storage\Link.c(6,12): warning C4101: “c”: 未引用的局部变量
+D:\C++\Data structure\linear list\Linked storage\Linked storage\Link.c(6,14): warning C4101: “d”: 未引用的局部变量
+  Linked storage.vcxproj -> D:\C++\Data structure\linear list\Linked storage\x64\Debug\Linked storage.exe
